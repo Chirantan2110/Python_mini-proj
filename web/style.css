@@ -1,0 +1,13 @@
+body{
+    background-color:green;
+    color:whitesmoke;
+    font-size:60px;
+
+
+}
+.heart {
+    font-size: 40px;
+    color: #01ffe1; /* Hot pink */
+    animation: pulse 1.5s infinite alternate;
+    
+}
